@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I'm Plash Shinde!<br><br>I'm a DevOps Engineer with hands-on experience in building, deploying, and maintaining <br>scalable cloud-native applications. <br>I work closely with developers to automate CI/CD pipelines, manage infrastructure, and <br>ensure reliable production deployments.<br><br>Tech Stack:<br>- DevOps & Cloud: AWS (EKS, S3, RDS), Docker, Kubernetes, Terraform, Jenkins<br>- Backend: Java, Spring Boot<br>- Frontend: Angular, HTML, CSS, JavaScript<br>- Databases: PostgreSQL<br>- Tools: GitHub, Maven, SonarQube<br>Currently working on:<br>- End-to-end DevOps support for CRM applications<br>- Infrastructure automation & CI/CD optimization<br> Always learning new cloud technologies and best DevOps practices.<br>
-
+👋 Hi, I'm Plash Shinde!<br><br>I'm a DevOps Engineer with hands-on experience in building, deploying, and maintaining <br>scalable cloud-native applications. <br>I work closely with developers to automate CI/CD pipelines, manage infrastructure, and <br>ensure reliable production deployments.<br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:plashshinde007@gmail.com) 
